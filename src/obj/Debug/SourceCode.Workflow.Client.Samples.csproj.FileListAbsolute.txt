@@ -1,7 +1,0 @@
-D:\Dev\GitHub\SourceCode.Workflow.Client.Samples\src\SourceCode.Workflow.Client.Samples\bin\Debug\SourceCode.Workflow.Client.Samples.dll
-D:\Dev\GitHub\SourceCode.Workflow.Client.Samples\src\SourceCode.Workflow.Client.Samples\bin\Debug\SourceCode.Workflow.Client.Samples.pdb
-D:\Dev\GitHub\SourceCode.Workflow.Client.Samples\src\SourceCode.Workflow.Client.Samples\bin\Debug\SourceCode.HostClientAPI.dll
-D:\Dev\GitHub\SourceCode.Workflow.Client.Samples\src\SourceCode.Workflow.Client.Samples\bin\Debug\SourceCode.Workflow.Client.dll
-D:\Dev\GitHub\SourceCode.Workflow.Client.Samples\src\SourceCode.Workflow.Client.Samples\obj\Debug\SourceCode.Workflow.Client.Samples.csprojResolveAssemblyReference.cache
-D:\Dev\GitHub\SourceCode.Workflow.Client.Samples\src\SourceCode.Workflow.Client.Samples\obj\Debug\SourceCode.Workflow.Client.Samples.dll
-D:\Dev\GitHub\SourceCode.Workflow.Client.Samples\src\SourceCode.Workflow.Client.Samples\obj\Debug\SourceCode.Workflow.Client.Samples.pdb
