@@ -30,7 +30,7 @@ Sample code that demonstrates common uses of the SourceCode.Workflow.Client.dll 
      
 ### License
 
-Clay is licensed under the MIT license, which can be found in LICENSE.
+This project is licensed under the MIT license, which can be found in LICENSE.
 
 **Additional Restrictions**
 
