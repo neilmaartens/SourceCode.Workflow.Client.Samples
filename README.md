@@ -15,15 +15,13 @@ The sample code has the following dependencies:
 ## Getting started
 * Use these code snippets to learn how to perform common tasks with k2 workflows through the workflow client API. 
 * Note that these projects may compile, but will not actually run as-is, since they are intended as sample code only. You will need to edit the code snippets to work in your environment and with your artifacts. 
-* Download the appropriate branch of this project for your version of K2 
+* Fetch or Pull the appropriate branch of this project for your version of K2. 
    
 ## License
 This project is licensed under the MIT license, which can be found in LICENSE.
 
 ## Notes and additional restrictions**
- * These sample code projects are not supported by K2 product support. 
  * The sample code is provided as-is without warranty.
+ * These sample code projects are not supported by K2 product support. 
  * The sample code is not necessarily comprehensive for all operations, features or functionality. 
- * We only accept code contributions that is compatible with the MIT license (essentially, MIT and Public Domain).
- 
- 
+ * We only accept code contributions that are compatible with the MIT license (essentially, MIT and Public Domain).
