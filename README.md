@@ -1,10 +1,16 @@
 # SourceCode.Workflow.Client.Samples
-Sample code that demonstrates common uses of the SourceCode.Workflow.Client.dll API
+This project contains sample code that demonstrates common uses of the SourceCode.Workflow.Client.dll API to interact with K2 workflows at runtime. 
+Examples: 
+* Starting a workflow
+* retrieving workflow tasks/worklist items
+* completing a workflwo task/worklist item
+* working with comments and attachments 
 
 ### Prerequisites
-
-* SourceCode.Workflow.Client.dll 
-* SourceCode.HostClientAPI.dll 
+The sample code has the following dependencies: 
+* .NET Assemblies: 
+** SourceCode.Workflow.Client.dll 
+** SourceCode.HostClientAPI.dll 
 (Both assemblies are included with K2 client-side tools install) 
 
 ### Getting started
