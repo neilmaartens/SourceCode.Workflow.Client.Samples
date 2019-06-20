@@ -20,7 +20,7 @@ The sample code has the following dependencies:
 ## License
 This project is licensed under the MIT license, which can be found in LICENSE.
 
-## Notes and additional restrictions**
+## Notes
  * The sample code is provided as-is without warranty.
  * These sample code projects are not supported by K2 product support. 
  * The sample code is not necessarily comprehensive for all operations, features or functionality. 
